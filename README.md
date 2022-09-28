@@ -14,3 +14,4 @@ TODO
 - [ ] slower movement?
 - [ ] provide tolerance area so the cam is not so jittery
 - [ ] get an ultrawide cam
+- [ ] get this working with actual video call apps
