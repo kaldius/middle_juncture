@@ -1,4 +1,4 @@
-# Center Stage for Linux
+# Middle Juncture (Center Stage for Linux)
 
 ## Intro
 I was intrigued by Apple's Center Stage and decided to implement it myself. I have also worked on a arduino controlled pan-tilt mount (made of ice-cream sticks haha) that controls the camera to keep the user's face in the middle of the screen. Will add it to this repo when I'm able to clean it up!
